@@ -12,7 +12,7 @@
 ## Vim이란? ##
 
 Vim은 이전 UNIX 텍스트 편집기 [Vi](https://en.wikipedia.org/wiki/Vi)의 크게 개선된 버전입니다. 새로운 기능들이 많이 추가되었습니다: multi-level undo, 구문 강조(syntax highlighting), 명령줄 히스토리, 온라인 도움말, 맞춤법 검사(spell checking), 파일 이름 자동 완성(filename completion), block operations, 스크립트 언어 등. 또한 그래픽 유저 인터페이스(GUI)를 사용할 수 있습니다. 여전히 Vi에 대한 호환성이 유지되어, Vi가 손에 익은 사람이 Vim을 사용할지라도 익숙할 것입니다.
-Vi와 다른 점은 [`runtime/doc/vi_diff.txt`](runtime/doc/vi_diff.txt)에서 볼 수 있습니다.
+Vi와 다른 점은 [`runtime/doc/vi_diff.txt`](https://github.com/vim/vim/blob/master/runtime/doc/vi_diff.txt)에서 볼 수 있습니다.
 
 Vim 편집기는 프로그램과 일반 텍스트 파일을 편집하는데 아주 유용합니다.
 모든 명령이 일반 키보드 문자로 제공되기 때문에, 열 손가락으로 아주 빠른 작업을 수행할 수 있습니다.
@@ -21,7 +21,7 @@ Vim 편집기는 프로그램과 일반 텍스트 파일을 편집하는데 아�
 Vim은 MS Windows (XP, Vista, 7, 8, 10), macOS, Haiku, VMS, 거의 모든 UNIX 기반 운영체제에서 실행됩니다. 다른 시스템으로 이식(포팅)하는 것도 아주 어렵지 않을 겁니다.
 Vim의 구 버전은 MS-DOS, MS-Windows 95/98/Me/NT/2000, Amiga DOS, Atari MiNT, BeOS, RISC OS and OS/2에서 실행됩니다. 하지만 더 이상 유지보수는 지원하지 않습니다.
 
-Vim9 스크립트는 [README_VIM9](README_VIM9.md)에서 확인할 수 있습니다.
+Vim9 스크립트는 [README_VIM9](https://github.com/vim/vim/blob/master/README_VIM9.md)에서 확인할 수 있습니다.
 
 ## 배포 ##
 
