@@ -29,7 +29,7 @@ Vim9 스크립트는 [README_VIM9](https://github.com/vim/vim/blob/master/README
 
 Unix, PC, Amiga, 기타 운영체제를 위한 별도의 배포판이 마련되어 있습니다.
 원본 ['README.md'](https://github.com/vim/vim/blob/master/README.md) 파일은 런타임 아카이브와 함께 제공됩니다. 여기에는 문서와 구문 파일, 런타임을 사용하는 기타 파일이 포함됩니다.
-Vim을 실행하기 위해서는 무조건 Binary 아카이브 또는 Source 아카이브 중 하나를 가져와야 합니다.
+Vim을 실행하기 위해서는 무조건 Binary 아카이브 또는 소스 아카이브 중 하나를 가져와야 합니다.
 둘 중 무엇이 필요한지는 여러분의 실행 환경과 직접 컴파일 여부에 따라 나뉩니다.
 현재 사용 가능한 배포판에 대한 개요는 https://www.vim.org/download.php 에서 확인하세요.
 
@@ -42,3 +42,26 @@ Vim의 최신 버전을 받을 수 있는 대표적인 곳:
 
 ## 컴파일 ##
 
+여러분이 Binary 배포판을 얻은 경우에는 Vim을 따로 컴파일하실 필요는 없습니다. 하지만 소스 배포판을 얻은 경우, 컴파일을 위한 모든 파일은 ['src'](https://github.com/vim/vim/blob/master/src) 디렉터리에 있습니다.
+자세한 내용은 ['src/INSTALL'](https://github.com/vim/vim/blob/master/src/INSTALL)을 확인하세요.
+
+
+## 설치 ##
+
+특정 시스템 별 자세한 사항은 아래 파일을 참조하세요.
+[READMEdir 디렉터리](https://github.com/vim/vim/blob/master/READMEdir) (저장소 내부) 또는 최상위 디렉터리 (아카이브를 풀었을 경우):
+
+    README_ami.txt		Amiga
+	README_unix.txt		Unix
+	README_dos.txt		MS-DOS and MS-Windows
+	README_mac.txt		Macintosh
+	README_haiku.txt	Haiku
+	README_vms.txt		VMS
+
+여러분이 사용하는 시스템에 따라 기타 'README_*.txt' 파일이 마련되어 있습니다.
+
+
+## 문서 ##
+
+Vim tutor는 초심자를 위한 1시간 짜리 교육 코스입니다.
+'vimtutor'로 시작할 수 있곤 합니다.
