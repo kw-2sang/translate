@@ -13,6 +13,12 @@ I translate for those who are looking for open source projects.
 * Nothing... 
 
 
-## 진행 중인 번역(in progress) ###
+## 진행 중인 번역(in progress) ##
 
-* [vim/vim](https://github.com/vim/vim) The official Vim repository
+* [vim/vim](https://github.com/vim/vim): The official Vim repository
+
+
+## 진행 예정(be scheduled) ##
+
+* [microsoft/terminal](https://github.com/microsoft/terminal): The new Windows Terminal
+* [microsoft/PowerToys](https://github.com/microsoft/PowerToys): Windows system utilities to maximize productivity
